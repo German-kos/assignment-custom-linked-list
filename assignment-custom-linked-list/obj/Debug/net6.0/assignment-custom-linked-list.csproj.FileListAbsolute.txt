@@ -1,0 +1,15 @@
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-custom-linked-list\assignment-custom-linked-list\bin\Debug\net6.0\assignment-custom-linked-list.exe
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-custom-linked-list\assignment-custom-linked-list\bin\Debug\net6.0\assignment-custom-linked-list.deps.json
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-custom-linked-list\assignment-custom-linked-list\bin\Debug\net6.0\assignment-custom-linked-list.runtimeconfig.json
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-custom-linked-list\assignment-custom-linked-list\bin\Debug\net6.0\assignment-custom-linked-list.dll
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-custom-linked-list\assignment-custom-linked-list\bin\Debug\net6.0\ref\assignment-custom-linked-list.dll
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-custom-linked-list\assignment-custom-linked-list\bin\Debug\net6.0\assignment-custom-linked-list.pdb
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-custom-linked-list\assignment-custom-linked-list\obj\Debug\net6.0\assignment-custom-linked-list.csproj.AssemblyReference.cache
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-custom-linked-list\assignment-custom-linked-list\obj\Debug\net6.0\assignment-custom-linked-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-custom-linked-list\assignment-custom-linked-list\obj\Debug\net6.0\assignment-custom-linked-list.AssemblyInfoInputs.cache
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-custom-linked-list\assignment-custom-linked-list\obj\Debug\net6.0\assignment-custom-linked-list.AssemblyInfo.cs
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-custom-linked-list\assignment-custom-linked-list\obj\Debug\net6.0\assignment-custom-linked-list.csproj.CoreCompileInputs.cache
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-custom-linked-list\assignment-custom-linked-list\obj\Debug\net6.0\assignment-custom-linked-list.dll
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-custom-linked-list\assignment-custom-linked-list\obj\Debug\net6.0\ref\assignment-custom-linked-list.dll
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-custom-linked-list\assignment-custom-linked-list\obj\Debug\net6.0\assignment-custom-linked-list.pdb
+C:\Users\Kosti\Desktop\HackerU Course\DOTNET\assignment-custom-linked-list\assignment-custom-linked-list\obj\Debug\net6.0\assignment-custom-linked-list.genruntimeconfig.cache
